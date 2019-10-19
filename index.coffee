@@ -1,7 +1,7 @@
 fs = require 'fs'
 commands = require './commands'
 
-console.log(commands.shoutName( commands.brian ))
+console.log(commands.shoutName(commands.jessica))
 
 houseRoast = null
 
